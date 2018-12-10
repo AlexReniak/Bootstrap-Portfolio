@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box; 
+}
+
+body {
+  font-family: sans-serif;
+  background: #e6e6e6;
+}
+
+.header {
+  background: white;
+  width: 100%;
+  border-bottom: solid 2px;
+  border-color: #d9d9d9;
+}
+
+a {
+  text-decoration: none;
+  color: #a6a6a6;
+}
+
+.name {
+  padding: 20px;
+  background: #00b3b3;
+  color: white;
+  font-size: 24px;
+}
+
+.about {
+  border-bottom: solid;
+  border-color: #d9d9d9;
+  padding-bottom: 20px;
+}
+
+.info {
+  background: white;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+img {
+  float: left;
+  padding: 20px;
+}
